@@ -337,3 +337,5 @@ compress_html:
   ignore:
     envs: development
     remote_theme : mmistakes/minimal-mistakes
+
+theme: jekyll-theme-slate
